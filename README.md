@@ -1,2 +1,7 @@
-# GallerySift
-GallerySift ist eine schlanke und datenschutzfreundliche Android-App, mit der du deine Galerie blitzschnell aufräumen kannst. Entscheide per Knopfdruck, welche Fotos und Videos du behalten oder löschen möchtest.
+Überall gibt es Galerie-Cleaner, aber alle sind entweder voller Werbung oder verlangen dreiste Abogebühren für Grundfunktionen. Das hat mich so gestört, dass ich es selbst in die Hand genommen habe.
+
+Mit Hilfe von Gemini habe ich GallerySift entwickelt – eine App, die einfach funktioniert. Keine Werbung, keine Abos, keine versteckten Kosten. Einfach nur ein sauberes Tool, das ich jetzt mit euch teile.
+
+Open Source: Hier ist der Code. Du kannst alles sehen und prüfen, denn beim Aufräumen privater Fotos sollte man keinen Abo-Modellen vertrauen müssen.
+
+Hast du Ideen oder Verbesserungsvorschläge? Dann her damit! Ich freue mich über jedes Feedback und jeden, der mitmachen möchte.
