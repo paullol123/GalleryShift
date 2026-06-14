@@ -5,4 +5,5 @@ Mit Hilfe von Gemini habe ich GalleryShift entwickelt – eine App, die einfach 
 Open Source: Hier ist der Code. Du kannst alles sehen und prüfen, denn beim Aufräumen privater Fotos sollte man keinen Abo-Modellen vertrauen müssen.
 
 Hast du Ideen oder Verbesserungsvorschläge? Dann her damit! Ich freue mich über jedes Feedback und jeden, der mitmachen möchte.
-<img width="1079" height="2181" alt="Screenshot_20260524_170636_GalleryCleaner" src="https://github.com/user-attachments/assets/620e290f-01f0-46d8-b0c0-ef40b6d2307d" />
+
+<img width="1080" height="2400" alt="Screenshot_20260614_134220" src="https://github.com/user-attachments/assets/4527f7dc-4366-49ca-ae00-5ecaf953d171" />
