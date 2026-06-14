@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <style name="Theme.GalleryCleaner" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.GallerySift" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/white</item>
+        <item name="android:colorSecondary">@color/black</item>
+    </style>
 </resources>
