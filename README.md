@@ -15,4 +15,5 @@ Es ist mein persönliches Projekt, das einfach genau das macht, was es soll.
 
 Hast du Ideen oder Verbesserungsvorschläge? Dann her damit! Ich freue mich über jedes Feedback und jeden, der mitmachen möchte.
 
-<img width="1080" height="2400" alt="Screenshot_20260614_134220" src="https://github.com/user-attachments/assets/4527f7dc-4366-49ca-ae00-5ecaf953d171" />
+<img width="1080" height="2400" alt="Screenshot_20260614_142339" src="https://github.com/user-attachments/assets/61cb452c-9dd8-4ae0-9b9b-542ef855266c" />
+
