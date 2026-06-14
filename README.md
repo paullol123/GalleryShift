@@ -1,8 +1,17 @@
-Überall gibt es Galerie-Cleaner, aber alle sind entweder voller Werbung oder verlangen dreiste Abogebühren für Grundfunktionen. Das hat mich so gestört, dass ich es selbst in die Hand genommen habe.
+Ich wollte eigentlich nur mal meine Galerie aufräumen. Aber als ich gesehen habe, dass ich über 10.000 Fotos und Videos auf dem Handy habe, musste eine App dafür her. Jede die ich im Store gefunden habe, war entweder voll mit Werbung oder wollte mir direkt ein Abo andrehen.
 
-Mit Hilfe von Gemini habe ich GalleryShift entwickelt – eine App, die einfach funktioniert. Keine Werbung, keine Abos, keine versteckten Kosten. Einfach nur ein sauberes Tool, das ich jetzt mit euch teile.
+Also habe ich mir meine eigene Lösung gebaut: GalleryShift.
 
-Open Source: Hier ist der Code. Du kannst alles sehen und prüfen, denn beim Aufräumen privater Fotos sollte man keinen Abo-Modellen vertrauen müssen.
+Was kann die App?
+Kurz gesagt: Sie hilft dir dabei, deine Galerie ohne Stress und mit etwas Spaß auszumisten.
+
+Sortieren wie du willst: Egal ob nach Zufall, Datum oder Dateigröße – du entscheidest, was zuerst weg muss.
+
+Tinder-Prinzip: Tippe einfach löschen oder zu behalten. Geht schneller als alles andere.
+
+Einfachheit: Keine Werbung, kein Schnickschnack, keine versteckten Kosten.
+
+Es ist mein persönliches Projekt, das einfach genau das macht, was es soll.
 
 Hast du Ideen oder Verbesserungsvorschläge? Dann her damit! Ich freue mich über jedes Feedback und jeden, der mitmachen möchte.
 
